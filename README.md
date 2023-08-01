@@ -1,4 +1,19 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# 🌟 Payment Form by vanesascode 🌟
+
+Payment form using HTML, BOOTSTRAP and JAVASCRIPT
+
+![paymentform](https://github.com/4GeeksAcademy/Create-a-HTML5-form/assets/131259155/20acc708-0813-45bb-9d94-342d96765b42)
+
+⭐ It uses RegEx to make sure the user only enters letters or numbers, a specific number of digits, etc.
+
+⭐ It uses JS to personalise the requirements messages, to make the radio red message appear and disappear, and to make the red alert message saying 'some fields are missing' disappear.
+
+***
+
+
+## This is the 4Geeks Boilerplate used: 
+
+### HTML Hello
 
 The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
 
