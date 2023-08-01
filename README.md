@@ -2,7 +2,9 @@
 
 Payment form using HTML, BOOTSTRAP and JAVASCRIPT
 
-![paymentform](https://github.com/4GeeksAcademy/Create-a-HTML5-form/assets/131259155/20acc708-0813-45bb-9d94-342d96765b42)
+
+![Payment Form](https://github.com/4GeeksAcademy/Create-a-HTML5-form/assets/131259155/aec092c2-3420-4048-8313-3b36fd1ec202)
+
 
 ⭐ It uses RegEx to make sure the user only enters letters or numbers, a specific number of digits, etc.
 
